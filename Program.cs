@@ -8,6 +8,8 @@ namespace vjezba1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo"); 
+            Console.WriteLine("Provjera");
         }
     }
 }
+//provjera promjene
