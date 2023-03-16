@@ -9,6 +9,7 @@ namespace vjezbaaa1
         static void Main(string[] args)
         {
             Console.WriteLine("Suradnja");
+            Console.WriteLine("Promjena");
         }
     }
 }
