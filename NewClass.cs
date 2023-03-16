@@ -2,13 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace vjezba1
+namespace vjezbaaa1
 {
-    class ClassNew
+    class NewClass
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Suradnja");
+            Console.WriteLine("Promjena");
         }
     }
 }
