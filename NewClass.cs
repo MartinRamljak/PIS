@@ -6,10 +6,8 @@ namespace vjezbaaa1
 {
     class NewClass
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Suradnja");
-            Console.WriteLine("Promjena");
+        int metoda(){
+            return 1;
         }
     }
 }
